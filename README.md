@@ -1,7 +1,7 @@
 # Database of ECGs, CAGs and Echocardiographs
 Case Data of Manuscript IABP and Closure of VSR after Primary PCI of AMI
 
-***Chuan Yang*** (<yangc@sj-hospital.org>)
+***Chuan Yang*** (<yangc@sj-hospital.org>), 
 ***Wenyue Pang*** (<pangwy@sj-hospital.org>)
 
 ## Introduction
